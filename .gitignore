@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Model outputs / artefacts
+figures/
+results/
+models/
+supplementary/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Large data (do not commit datasets)
+data/
+*.csv
+*.pcap
+*.pcapng
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+# Exception: keep tiny fixture files if any
+!tests/fixtures/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Secrets — never commit API keys or Kaggle credentials
+.kaggle/
+kaggle.json
+*.pem
+*.key

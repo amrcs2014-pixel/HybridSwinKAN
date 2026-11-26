@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "HybridSwinKAN: Dual-Branch Swin–ConvNeXt Architecture with KAN for Explainable Network Intrusion Detection"
+message: "If you use this software, please cite the associated paper as below."
+type: software
+authors:
+  - family-names: Abdelhaliem
+    given-names: Amr H.
+    email: a.hasan@inu.edu.jo
+    affiliation: "Irbid National University, Jordan"
+    orcid: "https://orcid.org/0000-0002-6097-3993"
+  - family-names: Tawfik
+    given-names: Mohammed
+    affiliation: "Ajloun National University, Jordan"
+  - family-names: Fathi
+    given-names: Islam S.
+    affiliation: "Ajloun National University, Jordan"
+    orcid: "https://orcid.org/0000-0002-8207-4702"
+repository-code: "https://github.com/amrogomma-web/HybridSwinKAN"
+license: MIT
+preferred-citation:
+  type: article
+  title: "HybridSwinKAN: Dual-Branch Swin–ConvNeXt Architecture with KAN for Explainable Network Intrusion Detection"
+  authors:
+    - family-names: Abdelhaliem
+      given-names: Amr H.
+    - family-names: Tawfik
+      given-names: Mohammed
+    - family-names: Fathi
+      given-names: Islam S.
+  journal: "International Journal of Computer Network and Information Security (IJCNIS)"
+  year: 2026
+  notes: "Manuscript ID: PAPER020705"
