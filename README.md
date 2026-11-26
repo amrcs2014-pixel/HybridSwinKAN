@@ -188,7 +188,7 @@ ORCID: [0000-0002-6097-3993](https://orcid.org/0000-0002-6097-3993)
 - Mohammed Tawfik — Ajloun National University, Jordan
 - Islam S. Fathi — Ajloun National University, Jordan
 
-For bugs or methodological questions, please open an [Issue](https://github.com/amrogomma-web/HybridSwinKAN/issues); for collaboration enquiries, please email the corresponding author.
+For bugs or methodological questions, please open an [Issue](https://github.com/amrcs2014-pixel/HybridSwinKAN/issues); for collaboration enquiries, please email the corresponding author.
 
 ---
 
